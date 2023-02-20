@@ -1,4 +1,4 @@
-# SNHU
+# Project 3
 
 Project 3 was a fun project to work on, even though I did have some troubles with it.
 The problem that needed solved was to help a grocery store rearrange their produce section by using
